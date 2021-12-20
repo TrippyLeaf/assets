@@ -1,2 +1,2 @@
-# trippy-leaf-images
+# trippy-leaf-assets
 trippy leaf logo
